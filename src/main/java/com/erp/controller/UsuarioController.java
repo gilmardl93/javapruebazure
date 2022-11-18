@@ -12,4 +12,9 @@ public class UsuarioController {
 	public String holaMundo() {
 		return "Hola Mundo Azure";
 	}
+	
+	@GetMapping("/prueba")
+	public String holaMundo2() {
+		return "Hola Alessia";
+	}
 }
