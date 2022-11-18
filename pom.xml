@@ -11,7 +11,7 @@
 	<groupId>com.erp</groupId>
 	<artifactId>JavaPruebaAzure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>JavaPruebaAzure</name>
 	<description>Sistema ERP</description>
 	<properties>
